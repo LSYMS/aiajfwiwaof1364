@@ -9,6 +9,7 @@ Update=1
 Update1=https:/raw.githubusercontent.com/YSLMS233/aiajfwiwaof1364/master/
 Update2=null
 Update2Pass=null
+NoUpdate=no
 [INI]
 Hosts1IP=151.101.36.133
 Hosts1Host=raw.githubusercontent.com
