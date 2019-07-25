@@ -17,3 +17,6 @@ Hosts1Host=raw.githubusercontent.com
 To=api.mlwei.com/lanzou/api/?url=
 PasswordAnd=JTI2cHdkJTNE
 PasswordBase=64
+[ftp]
+Uesr=aipfjiaw
+Password=123456
