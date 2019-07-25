@@ -2,7 +2,7 @@
 Ver=1.1
 Important=No
 Tell=3
-Tell1=1.Yes
+Tell1=1.修复已知bug
 Tell2=2.优化性能
 Tell3=....
 Update=1
@@ -15,4 +15,5 @@ Hosts1IP=151.101.36.133
 Hosts1Host=raw.githubusercontent.com
 [UpdateINI]
 To=api.mlwei.com/lanzou/api/?url=
-PasswordAnd=&pwd=
+PasswordAnd=JTI2cHdkJTNE
+PasswordBase=64
