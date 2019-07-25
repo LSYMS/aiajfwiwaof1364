@@ -6,7 +6,7 @@ Tell1=1.修复已知bug
 Tell2=2.优化性能
 Tell3=....
 Update=1
-Update1=https:/raw.githubusercontent.com/YSLMS233/aiajfwiwaof1364/master/
+Update1=https://raw.githubusercontent.com/YSLMS233/aiajfwiwaof1364/master/
 Update2=null
 Update2Pass=null
 NoUpdate=no
@@ -14,9 +14,13 @@ NoUpdate=no
 Hosts1IP=151.101.36.133
 Hosts1Host=raw.githubusercontent.com
 [UpdateINI]
-To=api.mlwei.com/lanzou/api/?url=
+To=https://api.mlwei.com/lanzou/api/?url=
 PasswordAnd=JTI2cHdkJTNE
 PasswordBase=64
 [ftp]
+Url=http://006.3vftp.com/
 Uesr=aipfjiaw
 Password=123456
+[Bug]
+To=null
+Url=ftp
